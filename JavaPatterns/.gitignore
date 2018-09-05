@@ -28,6 +28,7 @@ hs_err_pid*
 build/
 target/
 bin/
+out/
 dependency-reduced-pom.xml 
 
 # Eclipse Project Files 
